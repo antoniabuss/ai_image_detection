@@ -1,0 +1,11 @@
+torch==1.10.1+cu111
+numpy==1.26.4
+torchvision==0.11.2+cu111
+pillow==10.3.0
+requests==2.32.2
+scipy==1.13.1
+click==8.1.7
+psutil==5.9.0
+pathlib==1.0.1
+imageio==2.33.1
+tqdm==4.66.4
